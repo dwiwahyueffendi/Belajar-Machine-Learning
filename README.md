@@ -19,4 +19,5 @@
   <li>Submission Machine Learning</li>
 </p>
 
-<h2>Source Code by Dwi Wahyu Effendi (Sumber Dicoding)</h2>
+<h2>Source Code Oleh Dwi Wahyu Effendi</h2>
+<h6>Sumber Dicoding</h6>
