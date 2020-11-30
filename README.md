@@ -19,14 +19,4 @@
   <li>Submission Machine Learning</li>
 </p>
 
-<h2>Kontribusi</h2>
-  <table boder="2" cellspacing="0" cellpadding="5">
-        <tr>
-		<td>NAMA</td>
-		<td>NPM</td>	
-        </tr>
-        <tr>
-		<td>DWI WAHYU EFFENDI</td>
-		<td>18081010017</td>
-        </tr>
-    </table>
+<h2>Source Code by Dwi Wahyu Effendi (Sumber Dicoding)</h2>
